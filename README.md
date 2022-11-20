@@ -1,3 +1,2 @@
-# kafka-multi-producer-ms
-
-This is an application to producer the messages into multiple configuration(kafka server/topic).
+# kafka-producer-ms1
+This is an example to demonstrate the kafka producer example with Rest API
